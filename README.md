@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### CEO AT: Street Devs(https://discord.gg/streetdevs)
+- CFX LUA(Fivem)
+- BASIC FRONT-END
+- NODE.JS
 <!--
 **TrintaScr/TrintaScr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
